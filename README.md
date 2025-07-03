@@ -34,6 +34,10 @@ This project analyzes Netflix's public dataset to uncover trends in content type
 ## 🧪 How to Run
 
 1. Clone this repo
-2. Install dependencies:   
-3. Run the notebook
+2. Install dependencies:
+pandas
+matplotlib
+seaborn
+numpy
+4. Run the notebook
 jupyter notebook notebooks/netflix_analysis.ipynb
