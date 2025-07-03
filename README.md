@@ -37,3 +37,5 @@ This project analyzes Netflix's public dataset to uncover trends in content type
 2. Install dependencies:
    ```bash
    
+3. Run the notebook
+jupyter notebook notebooks/netflix_analysis.ipynb
