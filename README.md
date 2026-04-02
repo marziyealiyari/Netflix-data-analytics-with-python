@@ -1,10 +1,10 @@
-# 📊 Netflix Data Analytics & Content Strategy Insights
+ Netflix Data Analytics & Content Strategy Insights
 
 Analyze Netflix’s global catalog using Python to uncover genre gaps, regional content trends, and build content-based recommendations. This project blends data cleaning, visualization, NLP, clustering, and business strategy modeling — a full-stack data analyst case study.
 
 ---
 
-## 🔍 Project Objectives
+Project Objectives
 
 - Understand global trends in Netflix content over time and across countries
 - Identify underrepresented genres (content gaps) in key markets
@@ -14,7 +14,7 @@ Analyze Netflix’s global catalog using Python to uncover genre gaps, regional 
 
 ---
 
-## 🛠️ Tools & Technologies
+Tools & Technologies
 
 - Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Plotly, WordCloud)
 - Natural Language Processing (TF-IDF)
@@ -24,31 +24,31 @@ Analyze Netflix’s global catalog using Python to uncover genre gaps, regional 
 
 ---
 
-## 📈 Key Insights
+Key Insights
 
-### 🔥 Global Trends
+ Global Trends
 - Netflix’s catalog exploded in growth post-2015, especially for TV Shows.
 - The U.S., India, and U.K. dominate content production.
 
-### 🎭 Genre Patterns
+ Genre Patterns
 - Dramas, Comedies, and Documentaries are most common.
 - Genres like **Science & Nature** are globally popular but underrepresented in India.
 
-### 🌍 Regional Content Gaps
+Regional Content Gaps
 | Country | Underserved Genres       | Trending Themes                         |
 |---------|---------------------------|------------------------------------------|
 | India   | Documentaries, Sci-Fi     | family, romance, tradition, identity     |
 | UK      | Reality TV, Animation     | murder, true, crime, twist               |
 | Japan   | Romantic Dramas, Kids     | anime, school, life, emotions            |
 
-> ✅ Data-driven suggestions: Produce more documentaries in India, localize crime thrillers in the UK, expand anime and teen dramas in Japan.
+Data-driven suggestions: Produce more documentaries in India, localize crime thrillers in the UK, expand anime and teen dramas in Japan.
 
-### 🤖 Recommender System
+ Recommender System
 - A simple **content-based recommender** suggests similar titles using TF-IDF and cosine similarity on descriptions.
 
 ---
 
-## 📌 Future Work
+Future Work
 
 - Integrate user ratings/viewership for performance-based modeling
 - Deploy via Streamlit or Dash for live demos
@@ -57,17 +57,16 @@ Analyze Netflix’s global catalog using Python to uncover genre gaps, regional 
 
 ---
 
-## 📚 Data Source
+Data Source
 
 - Dataset: [Netflix Titles Dataset on Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
 
 ---
 
-## 💡 Author Notes
 
 This project simulates how a data analyst at Netflix might approach catalog expansion strategy — blending data exploration with business impact.
 
-If you're a recruiter, data science peer, or mentor and have feedback, I'd love to hear it!
+If you're a recruiter, data science peer, or mentor and have feedback, I'd love to hear it.
 
 ---
 
